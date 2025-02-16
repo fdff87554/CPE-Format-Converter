@@ -282,6 +282,7 @@ cython_debug/
 /open-webui/vector_db/*
 /open-webui/webui.db
 /data/*
+/temp/*
 
 # SQLite database file
 *.db
