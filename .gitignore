@@ -284,6 +284,7 @@ cython_debug/
 /data/*.xml
 /data/*.json
 /data/*.csv
+/data/*.zip
 /data/org/*
 /data/convert/*
 /temp/*
