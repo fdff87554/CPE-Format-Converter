@@ -284,6 +284,9 @@ cython_debug/
 /data/*
 /temp/*
 
+# database from chromadb
+/database/*
+
 # SQLite database file
 *.db
 *.sqlite3
