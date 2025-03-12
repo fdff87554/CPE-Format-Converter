@@ -281,7 +281,8 @@ cython_debug/
 /open-webui/cache/*
 /open-webui/vector_db/*
 /open-webui/webui.db
-/data/*
+/data/org/*
+/data/convert/*
 /temp/*
 
 # database from chromadb
